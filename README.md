@@ -1,17 +1,17 @@
 # PHP-ASSIGNMENT
 Individual Assignment
 ### Login Page
-![Login Page](Screenshot of login page.png)
+![Login Page](Screenshots/login.png)
 
 ### Dashboard
-![Dashboard](Screenshot of dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 
 ### Session and cookie stored
-![Session and cookie store](session and cookies.png)
+![Session and cookie store](Screenshots/session_cookies.png)
 
 ### Update and delete users
-![Update User](update and delete.png)
+![Update User](Screenshots/update_delete.png)
 
 ### Sign up form
-![Signups](Screenshot of signup form.png)
+![Signups](Screenshots/signup.png)
